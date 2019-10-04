@@ -19,7 +19,7 @@ public class Player {
         this.Username = Username;
     }
 
-    public void setId(long id) {
+    private void setId(long id) {
         this.id = id;
     }
 
